@@ -1,1 +1,12 @@
+name: "Enrollment Confirmation"
+description: "Confirm enrollment with title only"
+title: "Enrollment confirmation ABC-ENR-XXXX"
+labels: ["Enrollment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue confirms the official enrollment of the student in the current module.  
+        Please make sure the **enrollment ID appears in the title**, like:
 
+        `Enrollment confirmation ABC-ENR-2025-0123`
